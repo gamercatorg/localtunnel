@@ -24,6 +24,12 @@ npm install -g localtunnel
 yarn add localtunnel
 ```
 
+### Home brew
+
+```bash
+brew install lt
+```
+
 ## CLI usage
 
 When localtunnel is installed globally, just use the `lt` command to start the tunnel.
